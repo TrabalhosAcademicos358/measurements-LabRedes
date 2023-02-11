@@ -1,0 +1,6 @@
+scalable_nginx_2000n_100c_4vram.txt,743.47,1.345,233.06,2.690
+scalable_apache2_20000n_1000c_4vram.txt,315.91,3.165,140.99,63.308
+scalable_nginx_20000n_1000c_4vram.txt,741.21,1.349,232.35,26.983
+scalable_apache2_2000n_100c_4vram.txt,315.30,3.172,140.71,6.343
+scalable_apache2_10000n_500c_4vram.txt,309.84,3.228,138.28,32.275
+scalable_nginx_10000n_500c_4vram.txt,661.72,1.511,207.43,15.112

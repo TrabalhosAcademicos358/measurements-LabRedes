@@ -1,0 +1,6 @@
+vegas_apache2_10000n_500c_4vram.txt,327.72,3.051,146.26,30.514
+vegas_nginx_20000n_1000c_4vram.txt,724.36,1.381,227.07,27.610
+vegas_nginx_10000n_500c_4vram.txt,770.83,1.297,241.64,12.973
+vegas_apache2_2000n_100c_4vram.txt,321.39,3.112,143.43,6.223
+vegas_nginx_2000n_100c_4vram.txt,716.22,1.396,224.52,2.792
+vegas_apache2_20000n_1000c_4vram.txt,325.75,3.070,145.38,61.396

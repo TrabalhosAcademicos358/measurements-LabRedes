@@ -1,0 +1,6 @@
+illinois_nginx_10000n_500c_4vram.txt,592.04,1.689,185.59,16.891
+illinois_apache2_20000n_1000c_4vram.txt,290.20,3.446,129.51,68.917
+illinois_apache2_2000n_100c_4vram.txt,315.24,3.172,140.69,6.344
+illinois_apache2_10000n_500c_4vram.txt,273.83,3.652,122.21,36.519
+illinois_nginx_20000n_1000c_4vram.txt,809.47,1.235,209.71,24.708
+illinois_nginx_2000n_100c_4vram.txt,752.21,1.329,235.80,2.659

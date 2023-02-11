@@ -1,0 +1,6 @@
+hybla_nginx_20000n_1000c_4vram.txt,795.88,1.256,231.98,25.129
+hybla_apache2_20000n_1000c_4vram.txt,318.52,3.140,142.15,62.791
+hybla_apache2_2000n_100c_4vram.txt,308.00,3.247,137.46,6.494
+hybla_apache2_10000n_500c_4vram.txt,317.03,3.154,141.49,31.543
+hybla_nginx_2000n_100c_4vram.txt,772.35,1.295,242.11,2.590
+hybla_nginx_10000n_500c_4vram.txt,760.04,1.316,238.25,13.157

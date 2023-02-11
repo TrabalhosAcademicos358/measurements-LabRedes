@@ -1,0 +1,6 @@
+cubic_apache2_2000n_100c_4vram.txt,321.74,3.108,143.59,6.216
+cubic_apache2_10000n_500c_4vram.txt,335.13,2.984,149.56,29.839
+cubic_nginx_20000n_1000c_4vram.txt,742.18,1.347,232.65,26.948
+cubic_nginx_10000n_500c_4vram.txt,742.72,1.346,232.82,13.464
+cubic_apache2_20000n_1000c_4vram.txt,329.01,3.039,146.83,60.789
+cubic_nginx_2000n_100c_4vram.txt,754.06,1.326,236.38,2.652

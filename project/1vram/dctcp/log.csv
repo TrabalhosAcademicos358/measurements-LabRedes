@@ -1,0 +1,6 @@
+dctcp_nginx_20000n_1000c_1vram.txt,753.60,1.327,236.11,26.539
+dctcp_apache2_10000n_500c_1vram.txt,338.55,2.954,151.09,29.537
+dctcp_nginx_10000n_500c_1vram.txt,796.02,1.256,249.53,12.562
+dctcp_nginx_2000n_100c_1vram.txt,780.88,1.281,244.79,2.561
+dctcp_apache2_2000n_100c_1vram.txt,339.19,2.948,151.38,5.896
+dctcp_apache2_20000n_1000c_1vram.txt,352.32,2.838,157.24,56.766
