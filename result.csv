@@ -1,4 +1,4 @@
-Nome,Req. Por Segundo,Tempo por Req.,Taxa de Transferencia,Tempo levado para testes,Parâmetro de Hurst,Dimensão Fractal
+name,request_for_second,time_for_request,transfer_rate,time_taken_for_tests,hurst_parameter,fractal_dimension
 cubic_apache2_2000n_100c_1vram.txt,321.67,3109,143.56,6218,0.8041746,1.060583
 cubic_nginx_10000n_500c_1vram.txt,686.65,1456,215.25,14564,0.7821878,0.7821878
 cubic_apache2_10000n_500c_1vram.txt,318.30,3142,142.05,31417,0.7996072,1.096593

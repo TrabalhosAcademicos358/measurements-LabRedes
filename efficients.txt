@@ -1,0 +1,2 @@
+A DMU mais eficiente: hybla_nginx_10000n_500c_1vram.txt
+A DMU menos eficiente: illinois_nginx_20000n_1000c_4vram.txt

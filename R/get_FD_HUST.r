@@ -3,7 +3,7 @@ library(pracma);
 
 pathStart = '/home/pedro/Área de Trabalho/LabRedes/project/1vram/bbr/timeseries'
 
-setwd(pathStart) # Define o diretorio das suas timeseries, defina o dirtorio correto na variavel pathStart
+setwd(pathStart)
 files = list.files(path=pathStart, pattern='timeseries')
 
 for(x in 1:6){
