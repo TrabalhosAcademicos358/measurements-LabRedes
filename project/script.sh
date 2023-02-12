@@ -9,7 +9,6 @@ csv() {
 
 trata_csv() {
     sed -i 1d $1
-    mkdir timeseries
     cat $1 | cut -d ',' -f2 > timeseries/$1_timeseries.txt
 }
 
@@ -48,6 +47,7 @@ for vram in ${vrams[@]}; do
     for strategy in ${strategies[@]}; do
         cd $vram/$strategy
         mkdir stats/
+        mkdir timeseries
 
         echo "Vram atual $vram; Estrategia atual: $strategy"
 
